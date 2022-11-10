@@ -3,6 +3,7 @@ import pyautogui
 import pyperclip
 import time
 
+
 url = "https://www.google.com"
 
 webbrowser.open(url, new=0, autoraise=True)
